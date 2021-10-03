@@ -8,4 +8,5 @@ LOGISTIC REGRESSION
 <br>✅Day-4: Salary Estimation using K-NEAREST NEIGHBOR<br/>
 <br>✅Day-5: Character Recognition using SUPPORT VECTOR MACHINE<br/>
 <br>✅Day-6: Titanic Survival Prediction using NAIVE BAYES<br/>
+<br>✅Day-7: Leaf Species Detection using Decision Tree<br/>
 
