@@ -1,6 +1,5 @@
 This is my 30 day challenge of working on various algorithms by implementing them as a simple project.
 <br>Here is the list of all the projects below:<br/>
-
 <br>✅Day-1,2: Introduction and overview of ML<br/>
 
 SUPERVISED LEARNING - CLASSIFICATION & REGRESSION
