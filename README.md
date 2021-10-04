@@ -9,4 +9,5 @@ LOGISTIC REGRESSION
 <br>✅Day-5: Character Recognition using SUPPORT VECTOR MACHINE<br/>
 <br>✅Day-6: Titanic Survival Prediction using NAIVE BAYES<br/>
 <br>✅Day-7: Leaf Species Detection using Decision Tree<br/>
+<br>✅Day-8: Handwitten digit recognition using RANDON FOREST<br/>
 
